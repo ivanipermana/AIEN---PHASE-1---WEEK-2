@@ -1,0 +1,98 @@
+[
+  {
+    "event_id": "E001",
+    "order_id": "O001",
+    "order_value": 112500,
+    "destination_city": " bandung ",
+    "order_date": "2026-01-01",
+    "promised_date": "2026-01-04"
+  },
+  {
+    "event_id": "E002",
+    "order_id": "O002",
+    "order_value": 250000,
+    "destination_city": "jakarta",
+    "order_date": "2026-01-01",
+    "promised_date": "2026-01-03"
+  },
+  {
+    "event_id": "E003",
+    "order_id": "O003",
+    "order_value": -5000,
+    "destination_city": "Bogor",
+    "order_date": "2026-01-02",
+    "promised_date": "2026-01-04"
+  },
+  {
+    "event_id": "E004",
+    "order_id": "O004",
+    "order_value": 175000,
+    "destination_city": "   ",
+    "order_date": "2026-01-02",
+    "promised_date": "2026-01-05"
+  },
+  {
+    "event_id": "E001",
+    "order_id": "O001",
+    "order_value": 112500,
+    "destination_city": " bandung ",
+    "order_date": "2026-01-01",
+    "promised_date": "2026-01-04"
+  },
+  {
+    "event_id": "E005",
+    "order_id": "O005",
+    "order_value": 310000,
+    "destination_city": "Surabaya",
+    "order_date": "2026-01-03",
+    "promised_date": "2026-01-07"
+  },
+  {
+    "event_id": "E006",
+    "order_id": "O006",
+    "order_value": 99000,
+    "destination_city": "Depok",
+    "order_date": "2026-01-05",
+    "promised_date": "2026-01-04"
+  },
+  {
+    "event_id": "E007",
+    "order_id": "O007",
+    "order_value": 140000,
+    "destination_city": "Semarang",
+    "order_date": "2026-01-04",
+    "promised_date": "2026-01-07"
+  },
+  {
+    "event_id": "E008",
+    "order_id": "O008",
+    "order_value": 82000,
+    "destination_city": "BANDUNG",
+    "order_date": "2026-01-05",
+    "promised_date": "2026-01-08"
+  },
+  {
+    "event_id": "E009",
+    "order_id": "O009",
+    "order_value": 470000,
+    "destination_city": "Medan",
+    "order_date": "2026-01-06",
+    "promised_date": "2026-01-11"
+  },
+  {
+    "event_id": "E010",
+    "order_id": "O010",
+    "order_value": 125000,
+    "destination_city": "Bekasi",
+    "order_date": "2026-01-06",
+    "promised_date": "2026-01-08"
+  },
+  {
+    "event_id": "E005",
+    "order_id": "O005",
+    "order_value": 310000,
+    "destination_city": "Surabaya",
+    "order_date": "2026-01-03",
+    "promised_date": "2026-01-07"
+  }
+]

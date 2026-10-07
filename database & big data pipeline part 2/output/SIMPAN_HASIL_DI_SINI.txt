@@ -1,0 +1,1 @@
+Database utama dibuat otomatis di folder ini. Simpan log, tangkapan layar, dan hasil pemeriksaan Anda di sini.
