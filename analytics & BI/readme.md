@@ -63,7 +63,7 @@ Perintah memakai interpreter virtual environment secara langsung sehingga aktiva
 
 ### Jalur Colab
 
-1. Ekstrak ZIP di komputer untuk mengambil `workspace/analisis.ipynb`.
+1. Buka folder dan file `workspace/analisis.ipynb`.
 2. Buka [Google Colab](https://colab.research.google.com/) dan unggah notebook tersebut.
 3. Jalankan sel persiapan dalam notebook yang sama. 
 4. Sel persiapan mengekstrak struktur folder dalam runtime dan menentukan `ROOT`.
@@ -339,7 +339,7 @@ python test/assert_results.py
 ```
 
 
-### Output yang dikumpulkan
+### Output yang diharapkan
 
 1. `analisis_NAMA.ipynb`: notebook hasil kerja, disimpan beserta output.
 2. `jawaban_NAMA.md`: definisi metrik, temuan, dan narasi.
