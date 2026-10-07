@@ -12,7 +12,6 @@ Tim layanan pelanggan toko fiktif **KirimKita** sedang membandingkan dua versi c
 
 Anda akan membaca data evaluasi, menghitung metrik, membuat dashboard, lalu menyampaikan rekomendasi kepada stakeholder. Seluruh data bersifat sintetis. Anda tidak perlu membangun chatbot atau mengakses API berbayar untuk mengerjakan latihan ini.
 
-Mulai dari [Mulai_Di_Sini.html](Mulai_Di_Sini.html) untuk panduan menjalankan setiap file. Versi teks tersedia di [Mulai_Di_Sini.md](Mulai_Di_Sini.md).
 
 ## Tujuan Pembelajaran
 
