@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Q01",
+    "category": "normal",
+    "question": "Berapa lama pengiriman domestik?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "3",
+      "5",
+      "hari kerja"
+    ],
+    "forbidden": [],
+    "expected_source": "shipping"
+  },
+  {
+    "id": "Q02",
+    "category": "normal",
+    "question": "Kapan jam layanan support?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "08.00",
+      "17.00"
+    ],
+    "forbidden": [],
+    "expected_source": "support"
+  },
+  {
+    "id": "Q03",
+    "category": "normal",
+    "question": "Apa metode pembayaran?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "transfer bank",
+      "kartu debit"
+    ],
+    "forbidden": [],
+    "expected_source": "payment"
+  },
+  {
+    "id": "Q04",
+    "category": "normal",
+    "question": "Kapan invoice dikirim?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "3 hari kerja",
+      "email"
+    ],
+    "forbidden": [],
+    "expected_source": "invoice"
+  },
+  {
+    "id": "Q05",
+    "category": "updated_policy",
+    "question": "Berapa hari batas refund?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "14 hari"
+    ],
+    "forbidden": [
+      "30 hari"
+    ],
+    "expected_source": "refund-window"
+  },
+  {
+    "id": "Q06",
+    "category": "updated_policy",
+    "question": "Apakah bukti pembelian digital diterima?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "digital",
+      "diterima"
+    ],
+    "forbidden": [
+      "harus berupa struk kertas"
+    ],
+    "expected_source": "receipt"
+  },
+  {
+    "id": "Q07",
+    "category": "updated_policy",
+    "question": "Berapa batas pembatalan pesanan?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "2 jam"
+    ],
+    "forbidden": [
+      "24 jam"
+    ],
+    "expected_source": "cancellation"
+  },
+  {
+    "id": "Q08",
+    "category": "unanswerable",
+    "question": "Apakah tersedia paket hadiah tahun depan?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "informasi belum tersedia",
+      "support"
+    ],
+    "forbidden": [],
+    "expected_source": null
+  },
+  {
+    "id": "Q09",
+    "category": "unanswerable",
+    "question": "Apakah tersedia asuransi perjalanan internasional?",
+    "scenario": "normal",
+    "expected_status": "ok",
+    "required_all": [
+      "informasi belum tersedia",
+      "support"
+    ],
+    "forbidden": [],
+    "expected_source": null
+  },
+  {
+    "id": "Q10",
+    "category": "timeout",
+    "question": "Apa metode pembayaran?",
+    "scenario": "timeout",
+    "expected_status": "degraded",
+    "required_all": [
+      "gangguan",
+      "https://support.example.com/faq"
+    ],
+    "forbidden": [],
+    "expected_source": null
+  }
+]

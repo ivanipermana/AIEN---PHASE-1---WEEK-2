@@ -1,0 +1,1 @@
+# Lab wajib hanya menggunakan Python standard library. Tidak ada package pip yang diperlukan.

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "refund-window",
+    "keywords": [
+      "refund",
+      "pengembalian",
+      "dana"
+    ],
+    "body": "Batas pengajuan refund adalah 14 hari setelah pembelian."
+  },
+  {
+    "id": "receipt",
+    "keywords": [
+      "bukti",
+      "struk",
+      "nota"
+    ],
+    "body": "Bukti pembelian berupa struk digital atau kertas diterima."
+  },
+  {
+    "id": "cancellation",
+    "keywords": [
+      "pembatalan",
+      "membatalkan",
+      "batal"
+    ],
+    "body": "Batas pembatalan pesanan adalah 2 jam setelah pemesanan."
+  },
+  {
+    "id": "shipping",
+    "keywords": [
+      "pengiriman",
+      "kirim",
+      "dikirim"
+    ],
+    "body": "Pengiriman domestik membutuhkan 3 sampai 5 hari kerja."
+  },
+  {
+    "id": "support",
+    "keywords": [
+      "support",
+      "layanan",
+      "pelanggan",
+      "jam"
+    ],
+    "body": "Jam layanan support adalah 08.00 sampai 17.00 pada hari kerja."
+  },
+  {
+    "id": "payment",
+    "keywords": [
+      "pembayaran",
+      "bayar"
+    ],
+    "body": "Metode pembayaran yang tersedia adalah transfer bank dan kartu debit."
+  },
+  {
+    "id": "invoice",
+    "keywords": [
+      "invoice",
+      "faktur"
+    ],
+    "body": "Invoice dikirim melalui email dalam 3 hari kerja setelah pembayaran."
+  }
+]
