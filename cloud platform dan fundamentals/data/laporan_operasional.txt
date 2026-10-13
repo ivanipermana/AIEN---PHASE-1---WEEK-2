@@ -1,0 +1,18 @@
+LAPORAN OPERASIONAL TOKO NUSANTARA — SEPTEMBER 2026
+Dokumen fiktif untuk latihan. Seluruh angka merupakan data contoh.
+
+Penjualan September mencapai Rp120.000.000 dari 800 pesanan.
+Penjualan Agustus mencapai Rp100.000.000 dari 700 pesanan.
+Target penjualan September adalah Rp130.000.000.
+Produk terlaris adalah paket kopi premium dengan 250 pesanan.
+
+Sebanyak 64 dari 800 pesanan September mengalami keterlambatan pengiriman.
+Sebanyak 40 dari 700 pesanan Agustus mengalami keterlambatan pengiriman.
+Keluhan pelanggan September berjumlah 32; sebanyak 20 terkait keterlambatan,
+8 terkait kemasan rusak, dan 4 terkait produk yang tidak sesuai pesanan.
+Rata-rata rating pelanggan September adalah 4,2 dari 5.
+
+Catatan tim: stok kemasan menipis pada minggu ketiga September.
+Tim operasional mengusulkan evaluasi jadwal kurir dan penambahan stok kemasan.
+Belum tersedia data biaya pengiriman, margin keuntungan, atau penyebab pasti
+setiap keterlambatan. Usulan tim belum merupakan keputusan manajemen.
