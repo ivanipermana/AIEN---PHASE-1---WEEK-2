@@ -1,0 +1,302 @@
+[
+  {
+    "product_id": 1,
+    "name": "Produk 01",
+    "category": "elektronik",
+    "price": 10000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 2,
+    "name": "Produk 02",
+    "category": "fashion",
+    "price": 20000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 3,
+    "name": "Produk 03",
+    "category": "elektronik",
+    "price": 30000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 4,
+    "name": "Produk 04",
+    "category": "fashion",
+    "price": 40000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 5,
+    "name": "Produk 05",
+    "category": "elektronik",
+    "price": 50000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 6,
+    "name": "Produk 06",
+    "category": "fashion",
+    "price": 60000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 7,
+    "name": "Produk 07",
+    "category": "elektronik",
+    "price": 70000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 8,
+    "name": "Produk 08",
+    "category": "fashion",
+    "price": 80000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 9,
+    "name": "Produk 09",
+    "category": "elektronik",
+    "price": 90000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 10,
+    "name": "Produk 10",
+    "category": "fashion",
+    "price": 100000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 11,
+    "name": "Produk 11",
+    "category": "elektronik",
+    "price": 110000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 12,
+    "name": "Produk 12",
+    "category": "fashion",
+    "price": 120000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 13,
+    "name": "Produk 13",
+    "category": "elektronik",
+    "price": 130000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 14,
+    "name": "Produk 14",
+    "category": "fashion",
+    "price": 140000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 15,
+    "name": "Produk 15",
+    "category": "elektronik",
+    "price": 150000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 16,
+    "name": "Produk 16",
+    "category": "fashion",
+    "price": 160000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 17,
+    "name": "Produk 17",
+    "category": "elektronik",
+    "price": 170000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 18,
+    "name": "Produk 18",
+    "category": "fashion",
+    "price": 180000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 19,
+    "name": "Produk 19",
+    "category": "elektronik",
+    "price": 190000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 20,
+    "name": "Produk 20",
+    "category": "fashion",
+    "price": 200000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 21,
+    "name": "Produk 21",
+    "category": "elektronik",
+    "price": 210000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 22,
+    "name": "Produk 22",
+    "category": "fashion",
+    "price": 220000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 23,
+    "name": "Produk 23",
+    "category": "elektronik",
+    "price": 230000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 24,
+    "name": "Produk 24",
+    "category": "fashion",
+    "price": 240000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 25,
+    "name": "Produk 25",
+    "category": "elektronik",
+    "price": 250000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 26,
+    "name": "Produk 26",
+    "category": "fashion",
+    "price": 260000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 27,
+    "name": "Produk 27",
+    "category": "elektronik",
+    "price": 270000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 28,
+    "name": "Produk 28",
+    "category": "fashion",
+    "price": 280000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  },
+  {
+    "product_id": 29,
+    "name": "Produk 29",
+    "category": "elektronik",
+    "price": 290000,
+    "attributes": {
+      "ram_gb": 8,
+      "storage_gb": 256
+    }
+  },
+  {
+    "product_id": 30,
+    "name": "Produk 30",
+    "category": "fashion",
+    "price": 300000,
+    "attributes": {
+      "size": "L",
+      "material": "cotton"
+    }
+  }
+]
